@@ -1,0 +1,29 @@
+#encabezado{
+	font-family: Century Gothic;
+	text-align: center;
+	color: white;
+	background-color: #3D94A4;
+	font-size: 3em;
+}
+#divPronostico{
+	margin-top: 20px; 
+	margin-left: 200px;
+	margin-right: 200px;
+	font-family: Century Gothic; 
+	font-size: .8em;
+	text-align: justify;
+	color: black;
+}
+.divInfo{
+	display: inline-flex;
+	font-family: Century Gothic; 
+	text-align: justify;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-size: 1em;
+	
+}
+
+
+/**
